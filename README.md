@@ -12,3 +12,18 @@
 
 
 ![Screenshot_136](https://github.com/user-attachments/assets/a28a2c25-f414-4069-9fe6-a26ea0ded1f2)
+
+Задание 2
+Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
+Резервная копия должна быть полностью зеркальной
+Резервная копия должна создаваться раз в день, в системном логе должна появляться запись об успешном или неуспешном выполнении операции
+Резервная копия размещается локально, в директории /tmp/backup
+На проверку направить файл crontab и скриншот с результатом работы утилиты.
+
+
+
+![Screenshot_140](https://github.com/user-attachments/assets/8ee79747-4d46-4dfe-a655-ea9b04352c22)
+
+
+![Screenshot_139](https://github.com/user-attachments/assets/912f31b7-7189-40e0-afa6-fc7c53f1af85)
+![Screenshot_141](https://github.com/user-attachments/assets/0a3cb5ad-a37a-4099-a2ca-ce4330ac9a8a)
